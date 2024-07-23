@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Poppins SemiBold";
+   src: url("fonts/Poppins SemiBold.eot") format("embedded-opentype"), url("fonts/Poppins SemiBold.ttf") format("truetype"), url("fonts/Poppins SemiBold.woff") format("woff"), url("fonts/Poppins SemiBold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Poppins SemiBold";
+   src: url("fonts/Poppins SemiBold Italic.eot") format("embedded-opentype"), url("fonts/Poppins SemiBold Italic.ttf") format("truetype"), url("fonts/Poppins SemiBold Italic.woff") format("woff"), url("fonts/Poppins SemiBold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
